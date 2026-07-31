@@ -581,7 +581,8 @@ html_code = """<!DOCTYPE html>
                     </div>
                     <div class="flex flex-wrap gap-4 text-sm font-semibold">
                         <a class="px-4 py-2 rounded-xl bg-slate-800 hover:bg-sky-500/20 text-sky-400 border border-slate-700 hover:border-sky-500/50 transition-all flex items-center" href="tel:9337464611">
-                            <i class="fa-solid fa-phone mr-2"></i> 9337464611
+                             <!-- Sashikant 1 Aug 2026 -->
+                            <i class="fa-solid fa-phone mr-2"></i> 9337464611 / 9337464611
                         </a>
                         <a class="px-4 py-2 rounded-xl bg-slate-800 hover:bg-emerald-500/20 text-emerald-400 border border-slate-700 hover:border-emerald-500/50 transition-all flex items-center" href="https://wa.me/919337464611" target="_blank">
                             <i class="fa-brands fa-whatsapp mr-2 text-base"></i> WhatsApp Order
@@ -601,7 +602,8 @@ html_code = """<!DOCTYPE html>
                         </div>
                     </div>
                     <a href="tel:7798977519" class="inline-flex items-center px-6 py-3 rounded-2xl bg-gradient-to-r from-sky-500 via-teal-500 to-emerald-500 hover:from-sky-400 hover:to-emerald-400 text-slate-950 font-extrabold text-sm shadow-xl shadow-teal-500/25 transition-all transform hover:-translate-y-0.5">
-                        <i class="fa-solid fa-headset mr-2 text-base animate-bounce"></i> Contact 7798977519
+                         <!-- Sashikant 1 Aug 2026 -->
+                        <i class="fa-solid fa-headset mr-2 text-base animate-bounce"></i> Contact +917798977519
                     </a>
                 </div>
 
